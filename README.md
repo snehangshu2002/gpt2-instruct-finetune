@@ -14,7 +14,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/snehangshu2002/gpt2-instruct-finetune/main/Img/Demo.png" alt="Demo Preview" width="800">
 </p>
----
 
 ## 🔗 Links
 
