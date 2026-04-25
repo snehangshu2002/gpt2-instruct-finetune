@@ -12,7 +12,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green" alt="License"></a>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/snehangshu2002/gpt2-instruct-finetune/main/img/demo.png" alt="Demo Preview" width="800">
+  <img src="https://raw.githubusercontent.com/snehangshu2002/gpt2-instruct-finetune/main/img/Demo.png" alt="Demo Preview" width="800">
 </p>
 ---
 
