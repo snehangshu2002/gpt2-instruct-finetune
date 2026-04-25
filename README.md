@@ -1,4 +1,4 @@
-<h1 align="center">GPT-2 Medium Instruct 🧠</h1>
+<h1 align="center">GPT-2 Medium Instruct </h1>
 
 <p align="center">
   A <strong>355M parameter GPT-2 Medium</strong> model fine-tuned from scratch on the Alpaca instruction dataset — built end-to-end using a custom PyTorch architecture, trained with PyTorch Lightning, and deployed as an interactive Gradio app on Hugging Face Spaces.
