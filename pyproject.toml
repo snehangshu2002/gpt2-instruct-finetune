@@ -1,0 +1,17 @@
+[project]
+name = "gpt2-chat-instruct-notebook"
+version = "0.1.0"
+description = "Instruction fine-tuning of GPT-2 using PyTorch Lightning and the Alpaca dataset."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "torch",
+    "pytorch-lightning",
+    "transformers",
+    "datasets",
+    "huggingface_hub",
+    "tiktoken",
+    "safetensors",
+    "gradio",
+    "requests"
+]
