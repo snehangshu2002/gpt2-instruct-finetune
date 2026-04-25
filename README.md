@@ -1,12 +1,16 @@
-# GPT-2 Medium Instruct 🧠
+<h1 align="center">GPT-2 Medium Instruct 🧠</h1>
 
-A **355M parameter GPT-2 Medium** model fine-tuned from scratch on the Alpaca instruction dataset — built end-to-end using a custom PyTorch architecture, trained with PyTorch Lightning, and deployed as an interactive Gradio app on Hugging Face Spaces.
+<p align="center">
+  A <strong>355M parameter GPT-2 Medium</strong> model fine-tuned from scratch on the Alpaca instruction dataset — built end-to-end using a custom PyTorch architecture, trained with PyTorch Lightning, and deployed as an interactive Gradio app on Hugging Face Spaces.
+</p>
 
-[![Live Demo](https://img.shields.io/badge/🤗%20Spaces-Live%20Demo-blue)](https://snehangshu511-gpt2-medium-instruct-demo.hf.space/)
-[![Model on HF](https://img.shields.io/badge/🤗%20Hub-Model%20Weights-yellow)](https://huggingface.co/snehangshu511/gpt2-medium-instruct)
-[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange?logo=pytorch)](https://pytorch.org)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+<p align="center">
+  <a href="https://snehangshu511-gpt2-medium-instruct-demo.hf.space/"><img src="https://img.shields.io/badge/🤗%20Spaces-Live%20Demo-blue" alt="Live Demo"></a>
+  <a href="https://huggingface.co/snehangshu511/gpt2-medium-instruct"><img src="https://img.shields.io/badge/🤗%20Hub-Model%20Weights-yellow" alt="Model on HF"></a>
+  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" alt="Python"></a>
+  <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-2.x-orange?logo=pytorch" alt="PyTorch"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green" alt="License"></a>
+</p>
 
 ---
 
